@@ -27,7 +27,7 @@ To explore the [chatbot](https://claim-workshop.fd5vdj4lk4akg.eu-west-1.cs.amazo
 
 Click the video: 
 
-[<img src="preview.png" width="50%">](https://youtu.be/GeZ5W67sQyA)
+[<img src="preview.png" width="50%">](https://www.youtube.com/watch?v=OXuApGf4c-Y)
 
 
 
