@@ -26,6 +26,7 @@ AWS lightsail: container (medium server): $40/mo
 To explore the [chatbot](https://claim-workshop.fd5vdj4lk4akg.eu-west-1.cs.amazonlightsail.com/)
 
 Click the video: 
+
 [<img src="preview.png" width="50%">](https://youtu.be/GeZ5W67sQyA)
 
 
