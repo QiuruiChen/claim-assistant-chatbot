@@ -6,9 +6,8 @@ This Claim Assistant Chatbot App offers swift and optimal claim generation for c
 ### Features:
 
 **1. Claim Workshop:** The core component where the chat is conducted.
-
-    - Skimmers(company staff): Can view a comprehensive prompt, start a new chat, and save chat history to a database.
-    - Non-Skimmers: Only short prompts are displayed, start a new chat, and save chat history to a database.
+- Skimmers(company staff): Can view a comprehensive prompt, start a new chat, and save chat history to a database.
+- Non-Skimmers: Only short prompts are displayed, start a new chat, and save chat history to a database.
 
 **2. History Check:** A detailed chat history is displayed here. Users can delete the history, which is arranged from the newest to oldest.
 
@@ -24,7 +23,10 @@ The app is backed by technologies like LlamaIndex, LangChain, OpenAI, DynamoDB a
 AWS lightsail: container (medium server): $40/mo
 
 ### Link:
-To explore the bot, visit: https://claim-workshop.fd5vdj4lk4akg.eu-west-1.cs.amazonlightsail.com/
+To explore the [chatbot](https://claim-workshop.fd5vdj4lk4akg.eu-west-1.cs.amazonlightsail.com/)
+
+Click the video: 
+
 [<img src="preview.png" width="50%">](https://youtu.be/GeZ5W67sQyA)
 
 
