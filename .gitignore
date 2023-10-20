@@ -2,3 +2,4 @@
 .components/.env
 data/*
 knowlege_index/*
+temp/*
